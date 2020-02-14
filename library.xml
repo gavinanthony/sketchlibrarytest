@@ -11,7 +11,7 @@
     <item>
       <title>TestLibrary</title>
       <pubDate>Fri, 14 Feb 2020 10:20:00 +0000</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/gavinanthony/sketchlibrarytest/master/TestLibrary.sketch" type="application/octet-stream" sparkle:version="3"/>
+      <enclosure url="https://raw.githubusercontent.com/gavinanthony/sketchlibrarytest/master/TestLibrary.sketch" type="application/octet-stream" sparkle:version="4"/>
     </item>
   </channel>
 </rss>
